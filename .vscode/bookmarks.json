@@ -1,0 +1,14 @@
+{
+	"files": [
+		{
+			"path": "app/api/auth/[...nextauth]/route.js",
+			"bookmarks": [
+				{
+					"line": 9,
+					"column": 27,
+					"label": "last left off get google auth id"
+				}
+			]
+		}
+	]
+}
